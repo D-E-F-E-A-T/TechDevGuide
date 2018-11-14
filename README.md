@@ -14,4 +14,5 @@ let contacts = {<br />
     last_name: 'Sharp',<br />
     email: 'ccodysharp@gmail.com',<br />
     skype: 'ccodysharp@hotmail.com'<br />
+    medium: 'https://medium.com/@CCodySharp'<br />
 }
