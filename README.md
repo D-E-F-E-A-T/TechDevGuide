@@ -1,3 +1,5 @@
+<center><h1>Google TechDevGuide's solutions and progress</h1></center>
+
 I decided to challenge myself and go through all suggested resources and paths of Google's TechDevGuide. 
 Here I share all my progress with solutions to exercises and problems. 
 Specially for this challenge I created a personal blog where you will find detailed analysis, conclusions, thoughts and reviews of what I learned.
