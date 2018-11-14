@@ -7,7 +7,7 @@ If you have any thoughts, ideas or questions, or maybe just want to have talk :)
 I read all messages and will answer as fast as possible.
 
 
-=================================================================================================
+========================================================================================
 
 let contacts = {
   name: 'Cody',
