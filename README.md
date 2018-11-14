@@ -9,9 +9,9 @@ I read all messages and will answer as fast as possible.
 
 ========================================================================================
 
-let contacts = {
+let contacts = {<br />
   name: 'Cody',<br />
-  last_name: 'Sharp',
-  email: 'ccodysharp@gmail.com',
-  skype: 'ccodysharp@hotmail.com'
+  last_name: 'Sharp',<br />
+  email: 'ccodysharp@gmail.com',<br />
+  skype: 'ccodysharp@hotmail.com'<br />
 }
