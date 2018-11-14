@@ -10,7 +10,7 @@ I read all messages and will answer as fast as possible.
 ========================================================================================
 
 let contacts = {
-  name: 'Cody',
+  name: 'Cody',<br />
   last_name: 'Sharp',
   email: 'ccodysharp@gmail.com',
   skype: 'ccodysharp@hotmail.com'
